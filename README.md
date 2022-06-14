@@ -19,3 +19,4 @@
   
 
 The notes in these ipynb are in Traditional Chinese
+<a><img src="https://visitor-badge.glitch.me/badge?page_id=simonchung87.503183469" alt="visitors"></a>
